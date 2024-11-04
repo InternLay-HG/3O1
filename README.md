@@ -1,7 +1,7 @@
-#### **Software Requirements Specification (SRS) for Caron Urban Mobility Platform**
-#### **Version 1.0**
+## **Software Requirements Specification (SRS) for Caron Urban Mobility Platform**
+## **Version 1.0**
 
-##### **1. Introduction**
+### **1. Introduction**
 1.1 Purpose
 The purpose of this document is to outline the software requirements for Caron, a next-generation urban mobility platform that enables streamlined taxi bookings, user-driver interactions, and real-time, eco-friendly travel options. Caron aims to improve commuting efficiency in urban settings by integrating multi-modal transportation choices and providing real-time route suggestions.
 
@@ -25,7 +25,7 @@ GPS - Global Positioning System
 GDPR - General Data Protection Regulation
 Multi-modal Transportation - Use of multiple forms of transportation within a single journey.
 
-##### **2. Overall Description**
+### **2. Overall Description**
 
 ###### 2.1 Product Perspective
 The Caron platform comprises three main components:
@@ -46,19 +46,19 @@ Regular Commuters: Individuals looking for optimized daily routes for work or sc
 Eco-conscious Users: Users prioritizing sustainable travel options.
 City Planners: Authorized users analyzing aggregated data to make informed decisions.
 
-##### **3. System Requirements**
+### **3. System Requirements**
 Mobile Application: Available for iOS and Android platforms.
 Web Application: Compatible with major browsers (Chrome, Firefox, Safari, Edge).
 Backend Server: Node.js, with necessary integrations for external APIs.
 Database: MongoDB or similar for data storage.
 
-##### **4. Installation**
+### **4. Installation**
 Prerequisites
 Node.js and npm for server setup.
 MongoDB for data storage.
 Android Studio or Xcode for mobile app development.
 
-##### **5. Specific Requirements**
+### **5. Specific Requirements**
 ###### 5.1 External Interface Requirements
 User Interfaces
 Mobile App (iOS and Android): Provides features like real-time maps with traffic overlays, booking interface, driver interaction options, and a dashboard displaying eco-travel points and rewards.
@@ -101,7 +101,7 @@ Usability
 REQ-15: Mobile UI designed for single-hand usability with intuitive access to core features.
 REQ-16: Main features should be accessible within three taps to streamline the user experience.
 
-##### **6. Appendices**
+### **6. Appendices**
 
 ###### 6.1 Glossary
 API: A set of routines and protocols for building and integrating software.
@@ -112,7 +112,7 @@ Users access Caron via GPS-enabled smartphones.
 Public transit, ride-sharing, and bike-sharing services are active within the city.
 External APIs (transit, traffic, weather) are reliably accessible for optimal platform functionality.
 
-##### **7. Team Members and Domains**
+### **7. Team Members and Domains**
 ->Jeet Jay Mulani(Team Leader) - Andriod Development
 ->Pragati Ghosh - UI/UX Design
 ->Aditya Meena - UI/UX Design
