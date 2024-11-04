@@ -20,25 +20,30 @@ Integrated multi-modal options including public transit, ride-sharing, and bike-
 Eco-conscious travel incentives, encouraging sustainable choices.
 
 ###### 1.4 Definitions, Acronyms, and Abbreviations
-API - Application Programming Interface
-GPS - Global Positioning System
-GDPR - General Data Protection Regulation
-Multi-modal Transportation - Use of multiple forms of transportation within a single journey.
+API - Application Programming Interface  
+GPS - Global Positioning System  
+GDPR - General Data Protection Regulation  
+Multi-modal Transportation - Use of multiple forms of transportation within a single journey.  
 
 ### **2. Overall Description**
 
 ###### 2.1 Product Perspective
-The Caron platform comprises three main components:
+The Caron platform comprises three main components:  
 Mobile Application (iOS and Android): Enables on-the-go cab booking and route tracking.
-Responsive Web Application: Provides detailed trip planning, account management, and tracking of eco-friendly incentives.
+Responsive Web Application: Provides detailed trip planning, account management, and tracking of eco-friendly incentives.  
 Backend System: Handles data processing, third-party integrations (e.g., public transit, ride-sharing, and traffic data), and analytics for optimizing route and traffic predictions.
 
 ###### 2.2 Product Features
-Real-time Cab Booking: Users can book and track cabs in real-time.
-Driver Communication: In-app chat and call options for immediate interaction.
-Multi-modal Route Suggestions: Integrates various transportation options, including public transit and bike-sharing.
-Traffic and Weather-aware Route Planning: Provides optimized routes considering real-time traffic and weather conditions.
-Eco-friendly Incentives: Rewards users for eco-conscious travel choices, tracking their environmental impact.
+Real-time Cab Booking: Users can book and track cabs in real-time.  
+
+Driver Communication: In-app chat and call options for immediate interaction.  
+
+Multi-modal Route Suggestions: Integrates various transportation options, including public transit and bike-sharing.  
+
+Traffic and Weather-aware Route Planning: Provides optimized routes considering real-time traffic and weather conditions.  
+
+Eco-friendly Incentives: Rewards users for eco-conscious travel choices, tracking their environmental impact.  
+
 Community Reporting: Users can report road conditions, which improve route recommendations.
 
 ###### 2.3 User Classes and Characteristics
@@ -47,15 +52,20 @@ Eco-conscious Users: Users prioritizing sustainable travel options.
 City Planners: Authorized users analyzing aggregated data to make informed decisions.
 
 ### **3. System Requirements**
-Mobile Application: Available for iOS and Android platforms.
-Web Application: Compatible with major browsers (Chrome, Firefox, Safari, Edge).
-Backend Server: Node.js, with necessary integrations for external APIs.
+Mobile Application: Available for iOS and Android platforms.  
+
+Web Application: Compatible with major browsers (Chrome, Firefox, Safari, Edge).  
+
+Backend Server: Node.js, with necessary integrations for external APIs.  
+
 Database: MongoDB or similar for data storage.
 
 ### **4. Installation**
 Prerequisites
-Node.js and npm for server setup.
-MongoDB for data storage.
+Node.js and npm for server setup.  
+
+MongoDB for data storage.  
+
 Android Studio or Xcode for mobile app development.
 
 ### **5. Specific Requirements**
