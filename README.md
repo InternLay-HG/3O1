@@ -113,11 +113,11 @@ Public transit, ride-sharing, and bike-sharing services are active within the ci
 External APIs (transit, traffic, weather) are reliably accessible for optimal platform functionality.
 
 ### **7. Team Members and Domains**
-->Jeet Jay Mulani(Team Leader) - Andriod Development
-->Pragati Ghosh - UI/UX Design
-->Aditya Meena - UI/UX Design
-->Aditya Verma - Andriod Development
-->Kartikey Thakur - Web Development
-->Piyush Arora - Andriod Development
-->Harsh Kumar - Web Development
+->Jeet Jay Mulani(Team Leader) - Andriod Development  
+->Pragati Ghosh - UI/UX Design  
+->Aditya Meena - UI/UX Design  
+->Aditya Verma - Andriod Development  
+->Kartikey Thakur - Web Development  
+->Piyush Arora - Andriod Development  
+->Harsh Kumar - Web Development  
 ->Zayan Khan - AI/ML
