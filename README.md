@@ -120,4 +120,4 @@ External APIs (transit, traffic, weather) are reliably accessible for optimal pl
 ->Kartikey Thakur - Web Development
 ->Piyush Arora - Andriod Development
 ->Harsh Kumar - Web Development
-->Zayan Khan - UI/UX Design
+->Zayan Khan - AI/ML
