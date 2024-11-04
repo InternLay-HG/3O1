@@ -1,39 +1,39 @@
-**Software Requirements Specification (SRS) for Caron Urban Mobility Platform**
-**Version 1.0**
+#### **Software Requirements Specification (SRS) for Caron Urban Mobility Platform**
+#### **Version 1.0**
 
-**1. Introduction**
+##### **1. Introduction**
 1.1 Purpose
 The purpose of this document is to outline the software requirements for Caron, a next-generation urban mobility platform that enables streamlined taxi bookings, user-driver interactions, and real-time, eco-friendly travel options. Caron aims to improve commuting efficiency in urban settings by integrating multi-modal transportation choices and providing real-time route suggestions.
 
-1.2 Intended Audience and Reading Suggestions
+###### 1.2 Intended Audience and Reading Suggestions
 This document is intended for:
 Developers responsible for building and maintaining the Caron platform.
 Project Managers who oversee project progress and timelines.
 City Planners looking to leverage Caron’s transportation data for urban planning.
 Stakeholders with an interest in the strategic development and growth of Caron.
 
-1.3 Scope
+###### 1.3 Scope
 Caron is a web and mobile platform providing users with features such as:
 Seamless cab bookings and live tracking.
 Direct communication between users and drivers.
 Integrated multi-modal options including public transit, ride-sharing, and bike-sharing.
 Eco-conscious travel incentives, encouraging sustainable choices.
 
-1.4 Definitions, Acronyms, and Abbreviations
+###### 1.4 Definitions, Acronyms, and Abbreviations
 API - Application Programming Interface
 GPS - Global Positioning System
 GDPR - General Data Protection Regulation
 Multi-modal Transportation - Use of multiple forms of transportation within a single journey.
 
-**2. Overall Description**
+##### **2. Overall Description**
 
-2.1 Product Perspective
+###### 2.1 Product Perspective
 The Caron platform comprises three main components:
 Mobile Application (iOS and Android): Enables on-the-go cab booking and route tracking.
 Responsive Web Application: Provides detailed trip planning, account management, and tracking of eco-friendly incentives.
 Backend System: Handles data processing, third-party integrations (e.g., public transit, ride-sharing, and traffic data), and analytics for optimizing route and traffic predictions.
 
-2.2 Product Features
+###### 2.2 Product Features
 Real-time Cab Booking: Users can book and track cabs in real-time.
 Driver Communication: In-app chat and call options for immediate interaction.
 Multi-modal Route Suggestions: Integrates various transportation options, including public transit and bike-sharing.
@@ -41,25 +41,25 @@ Traffic and Weather-aware Route Planning: Provides optimized routes considering 
 Eco-friendly Incentives: Rewards users for eco-conscious travel choices, tracking their environmental impact.
 Community Reporting: Users can report road conditions, which improve route recommendations.
 
-2.3 User Classes and Characteristics
+###### 2.3 User Classes and Characteristics
 Regular Commuters: Individuals looking for optimized daily routes for work or school.
 Eco-conscious Users: Users prioritizing sustainable travel options.
 City Planners: Authorized users analyzing aggregated data to make informed decisions.
 
-**3. System Requirements**
+##### **3. System Requirements**
 Mobile Application: Available for iOS and Android platforms.
 Web Application: Compatible with major browsers (Chrome, Firefox, Safari, Edge).
 Backend Server: Node.js, with necessary integrations for external APIs.
 Database: MongoDB or similar for data storage.
 
-**4. Installation**
+##### **4. Installation**
 Prerequisites
 Node.js and npm for server setup.
 MongoDB for data storage.
 Android Studio or Xcode for mobile app development.
 
-**5. Specific Requirements**
-5.1 External Interface Requirements
+##### **5. Specific Requirements**
+###### 5.1 External Interface Requirements
 User Interfaces
 Mobile App (iOS and Android): Provides features like real-time maps with traffic overlays, booking interface, driver interaction options, and a dashboard displaying eco-travel points and rewards.
 Web Application: Features a trip planning interface, eco-footprint tracking, rewards, and account management.
@@ -72,7 +72,7 @@ Public Transit APIs for schedule updates.
 Ride-sharing and bike-sharing APIs (e.g., Uber, Lyft) for additional travel options.
 Traffic and weather APIs for real-time adjustments to travel recommendations.
 
-5.2 Functional Requirements
+###### 5.2 Functional Requirements
 User Registration and Authentication
 REQ-1: Users can register using email, phone, or social media accounts.
 REQ-2: Includes secure authentication with options like two-factor authentication.
@@ -87,7 +87,7 @@ REQ-7: Tracks the environmental impact of user travel choices, rewarding eco-con
 Community Reporting
 REQ-8: Users can report road conditions and incidents, which will enhance real-time recommendations.
 
-5.3 Non-functional Requirements
+###### 5.3 Non-functional Requirements
 Performance
 REQ-9: The mobile app should respond to user inputs within 2 seconds for seamless interaction.
 REQ-10: The system shall handle up to 100,000 concurrent users.
@@ -101,18 +101,18 @@ Usability
 REQ-15: Mobile UI designed for single-hand usability with intuitive access to core features.
 REQ-16: Main features should be accessible within three taps to streamline the user experience.
 
-**6. Appendices**
+##### **6. Appendices**
 
-6.1 Glossary
+###### 6.1 Glossary
 API: A set of routines and protocols for building and integrating software.
 Multi-modal Transportation: Combining multiple transportation types within a single journey to reach a destination.
 
-6.2 Assumptions and Dependencies
+###### 6.2 Assumptions and Dependencies
 Users access Caron via GPS-enabled smartphones.
 Public transit, ride-sharing, and bike-sharing services are active within the city.
 External APIs (transit, traffic, weather) are reliably accessible for optimal platform functionality.
 
-**7. Team Members and Domains**
+##### **7. Team Members and Domains**
 ->Jeet Jay Mulani(Team Leader) - Andriod Development
 ->Pragati Ghosh - UI/UX Design
 ->Aditya Meena - UI/UX Design
