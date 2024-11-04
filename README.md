@@ -35,20 +35,15 @@ Backend System: Handles data processing, third-party integrations (e.g., public 
 
 ###### 2.2 Product Features
 Real-time Cab Booking: Users can book and track cabs in real-time.  
-
 Driver Communication: In-app chat and call options for immediate interaction.  
-
 Multi-modal Route Suggestions: Integrates various transportation options, including public transit and bike-sharing.  
-
 Traffic and Weather-aware Route Planning: Provides optimized routes considering real-time traffic and weather conditions.  
-
 Eco-friendly Incentives: Rewards users for eco-conscious travel choices, tracking their environmental impact.  
-
 Community Reporting: Users can report road conditions, which improve route recommendations.
 
 ###### 2.3 User Classes and Characteristics
-Regular Commuters: Individuals looking for optimized daily routes for work or school.
-Eco-conscious Users: Users prioritizing sustainable travel options.
+Regular Commuters: Individuals looking for optimized daily routes for work or school.  
+Eco-conscious Users: Users prioritizing sustainable travel options.  
 City Planners: Authorized users analyzing aggregated data to make informed decisions.
 
 ### **3. System Requirements**
