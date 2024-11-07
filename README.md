@@ -129,4 +129,8 @@ External APIs (transit, traffic, weather) are reliably accessible for optimal pl
 ->Kartikey Thakur - Web Development  
 ->Piyush Arora - Andriod Development  
 ->Harsh Kumar - Web Development  
-->Zayan Khan - AI/ML
+->Zayan Khan - AI/ML  
+
+### **8. Figma file and Notion site**
+caron 1.0(figma): https://www.figma.com/design/oSVoQLaHRWQDI1dVTWHsfq/caron-internlay-3O1?node-id=0-1&t=c8dZD3vnPyXSlqNJ-1
+notion site: https://spectacled-wasabi-b60.notion.site/CARON-1-0-134cf5ac2a5880e1b612d7fe8d79bc44
