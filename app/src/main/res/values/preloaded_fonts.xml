@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abel</item>
+        <item>@font/abhaya_libre</item>
+        <item>@font/adlam_display</item>
+        <item>@font/afacad</item>
+        <item>@font/agdasima</item>
+        <item>@font/alfa_slab_one</item>
+        <item>@font/anton</item>
+        <item>@font/bakbak_one</item>
+        <item>@font/bayon</item>
+        <item>@font/bigshot_one</item>
+    </array>
+</resources>
